@@ -1,0 +1,7 @@
+git init initializes an empty git repo
+git add . stages all modified files
+git committ commits modifications to existing files, adds new files, removes deleted files
+git push updates remote repos
+git pull updates a local branch
+git branch creates a new branch in the repo
+git checkout branchName moves to branchName

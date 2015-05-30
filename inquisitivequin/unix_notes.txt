@@ -1,0 +1,9 @@
+mv {file1, file2, file3} newDir does not move multiple files
+nano file1 opens file1 in nano editor
+ls list the contents of a dir
+mkdir makes a directory
+cp file1 ~/desktop/dir1 will copy file1 to dir1
+cp -i dr3 ~/documents/dir2 will iterate through dir3 and copy it's files to dir2
+nano .bash_profile opens one of my favorite files because with it
+repo() builds a new github repo
+bsh opens .bash_profile in nano
